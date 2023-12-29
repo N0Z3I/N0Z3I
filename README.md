@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h1 align="left">Hi 👋 My name is Pasin Sangjun</h1>
 <h3 align="left">3rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
 <h4 align="left">Bachelor of Science Program Department of Computer Science</h4>
