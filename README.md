@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">3rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
-<h4 align="center">Bachelor of Science Program Department of Computer Science</h4>
+<h3 align="center">Bachelor of Science Program Department of Computer Science</h3>
 
 <br/>
 
