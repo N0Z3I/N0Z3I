@@ -6,6 +6,8 @@
 <h3 align="center">3rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
 <h4 align="center">Bachelor of Science Program Department of Computer Science</h4>
 
+<br/>
+
 * ✉️  You can contact me at [namedarrius@gmail.com](mailto:namedarrius@gmail.com)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
