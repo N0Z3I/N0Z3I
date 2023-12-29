@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasin+Sangjun!;" />
 </h1>
 
-<h3 align="left">3rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
-<h4 align="left">Bachelor of Science Program Department of Computer Science</h4>
+<h3 align="center">3rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
+<h4 align="center">Bachelor of Science Program Department of Computer Science</h4>
 
 * ✉️  You can contact me at [namedarrius@gmail.com](mailto:namedarrius@gmail.com)
 
