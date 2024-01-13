@@ -12,7 +12,7 @@
   <a href="mailto:pasinsangjun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pasin-sangjun-8091a02a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/pasin-s-8091a02a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
