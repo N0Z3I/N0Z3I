@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasin+Sangjun!;" />
 </h1>
 
-<h3 align="center">3rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
+<h3 align="center">4rd year student, Kasetsart University Kamphaeng Saen Campus</h3>
 <h4 align="center">Bachelor of Science Program Department of Computer Science</h4>
 
 <br/>
@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pasin-s-8091a02a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge
+&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://n0z3i.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
