@@ -8,6 +8,7 @@
 
 <br/>
 
+
 <div align="center"> 
   <a href="mailto:pasinsangjun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,py,react,mysql,nodejs,expressjs" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,matlab,androidstudio,figma,git,gitlab,docker,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,py,react,mysql,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,matlab,androidstudio,figma,git,gitlab,docker" /><br>
 
 </div>
 
