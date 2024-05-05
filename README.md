@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100088764879411">
-    <img src="https://img.shields.io/badge/Facebook-E1306C?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
