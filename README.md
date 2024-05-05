@@ -19,6 +19,9 @@
   <a href="https://n0z3i.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.instagram.com/namesangjun_/">
+    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
