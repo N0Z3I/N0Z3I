@@ -1,5 +1,6 @@
 
-<h1 align="center">
+<h1 align
+="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasin+Sangjun!;" />
 </h1>
 
@@ -30,7 +31,7 @@ div>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,js,ts,html,css,react,nodejs,express,django" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,matlab,androidstudio,figma,git,gitlab,docker,postman,aws,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,matlab,androidstudio,figma,git,gitlab,docker,postman,mysql,postgres" /><br>
 
 </div>
 
